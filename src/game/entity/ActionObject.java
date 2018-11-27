@@ -66,7 +66,7 @@ public class ActionObject extends Entity {
 			g.setColor(Color.white);
 			g.drawImage(diamondPick,x,y,null);
 		}
-		//g.drawRect(x, y, width, height);
+		//g.drawRect(x, y, width, height); TEST
 	}
 
 	@Override
